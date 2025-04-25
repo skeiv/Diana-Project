@@ -1,0 +1,12 @@
+C:\Users\Vitek\Desktop\Diana-Project\JobSearchApp.Core\bin\Debug\net7.0\JobSearchApp.Core.deps.json
+C:\Users\Vitek\Desktop\Diana-Project\JobSearchApp.Core\bin\Debug\net7.0\JobSearchApp.Core.dll
+C:\Users\Vitek\Desktop\Diana-Project\JobSearchApp.Core\bin\Debug\net7.0\JobSearchApp.Core.pdb
+C:\Users\Vitek\Desktop\Diana-Project\JobSearchApp.Core\obj\Debug\net7.0\JobSearchApp.Core.csproj.AssemblyReference.cache
+C:\Users\Vitek\Desktop\Diana-Project\JobSearchApp.Core\obj\Debug\net7.0\JobSearchApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitek\Desktop\Diana-Project\JobSearchApp.Core\obj\Debug\net7.0\JobSearchApp.Core.AssemblyInfoInputs.cache
+C:\Users\Vitek\Desktop\Diana-Project\JobSearchApp.Core\obj\Debug\net7.0\JobSearchApp.Core.AssemblyInfo.cs
+C:\Users\Vitek\Desktop\Diana-Project\JobSearchApp.Core\obj\Debug\net7.0\JobSearchApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\Vitek\Desktop\Diana-Project\JobSearchApp.Core\obj\Debug\net7.0\JobSearchApp.Core.dll
+C:\Users\Vitek\Desktop\Diana-Project\JobSearchApp.Core\obj\Debug\net7.0\refint\JobSearchApp.Core.dll
+C:\Users\Vitek\Desktop\Diana-Project\JobSearchApp.Core\obj\Debug\net7.0\JobSearchApp.Core.pdb
+C:\Users\Vitek\Desktop\Diana-Project\JobSearchApp.Core\obj\Debug\net7.0\ref\JobSearchApp.Core.dll

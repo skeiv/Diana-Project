@@ -1,0 +1,30 @@
+## Build output
+[Bb]in/
+[Oo]bj/
+
+## User-specific files
+*.user
+*.userosscache
+*.sln.docstates
+
+## Visual Studio / Rider temporary files
+.vs/
+.idea/
+
+## Environment variables file (if used)
+.env
+
+## Log files
+*.log
+
+## Test results
+TestResults/
+
+## Rider / VS Code
+.idea/
+.vscode/
+
+# Secrets files - **IMPORTANT**: Never commit secrets!
+secrets.json
+user-secrets/
+*.Secret*.json 
